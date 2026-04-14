@@ -1,0 +1,10 @@
+*.exe
+*.out
+a.out
+liga
+build/
+bin/
+.vscode/
+.idea/
+.DS_Store
+tabla.txt
